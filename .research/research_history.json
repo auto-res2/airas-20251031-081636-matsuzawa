@@ -3,5 +3,13 @@
   "queries": [
     "test-time adaptation convergence speed"
   ],
+  "research_study_list": [
+    {
+      "title": "Evaluation of Test-Time Adaptation Under Computational Time Constraints"
+    },
+    {
+      "title": "Persistent Test-time Adaptation in Recurring Testing Scenarios"
+    }
+  ],
   "hypothesis_versions": []
 }
